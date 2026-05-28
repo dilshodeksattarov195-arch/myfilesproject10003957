@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceconnect",
+        "uuid": 31477935,
+        "checksum": "mfa3vr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
